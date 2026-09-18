@@ -1,0 +1,6 @@
+{
+  "name": "Yididya Choir",
+  "description": "Private mobile choir app for Yididya Choir featuring hymns, Amharic lyrics, offline sync, rehearsal schedules, and personal choir library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
